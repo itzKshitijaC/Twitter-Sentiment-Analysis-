@@ -1,12 +1,48 @@
 <h1 align="center">
-   Twitter Sentiment Analysis using Machine Learning 📊 
+   Twitter Sentiment Analysis Using Machine Learning 📊 
 </h1>
 
-<p align="center">
-  <img src="https://github.com/itzKshitijaC/Twitter-Sentiment-Analysis-/assets/168798073/c3f9f15f-0daa-445a-a85b-5dd4824a8f6f">
-</p>
-
 # Objective 🔍
-### Develop a machine learning model to analyze and classify the sentiment of Twitter posts, categorizing them as positive, negative, or neutral, to gain insights into public opinion on various topics.
+### Build, train, test, and deploy an Artificial Intelligence (AI) model to predict sentiment from thousands of tweets. Sentiment prediction involves understanding people's feelings about a product or service.
 
+# Tools 🔨
+## Anaconda, Python, Scikit-Learn, Matplotlib, Seaborn
 
+# Practical Real-World Application ⭐
+### AI-ML sentiment analysis tools empower companies to automatically predict whether their customers are happy. The process could be done automatically without humans manually reviewing thousands of tweets/reviews.
+
+# Data 🔡
+## Inputs:
+- Twitter tweets (text data)
+## Output:
+- Sentiment (0 or 1)
+
+[data source:](https://www.kaggle.com/sid321axn/amazon-alexa-reviews/kernels)
+
+# Background 👇🏻
+- Natural Language Processing (NLP) works by converting words(text) into numbers
+- These numbers are then used to train an AI/ML model to make predictions.
+- Predictions could be sentiments inferred from social media posts and product reviews.
+- AI/ML-based sentiment analysis is crucial for companies to predict whether their customers are happy or not automatically.
+- The process could be done automatically without humans manually reviewing thousands of tweets and customer reviews.
+- In this case study, we will analyze thousands of Twitter tweets to predict people's sentiments.
+
+![Screenshot 2024-06-12 111930](https://github.com/itzKshitijaC/Twitter-Sentiment-Analysis-/assets/168798073/4e800ecc-b39e-4334-be82-4d8b4ac1430b)
+
+# Project Workflow 🌊
+
+1: Understand the Problem Statement and business case
+
+2: Import libraries and datasets
+
+3: Perform Exploratory Data Analysis
+
+4: Perform Data Cleaning
+
+5: Visualize Cleaned Datasets
+
+6: Prepare the data by applying a count vectorizer
+
+7: Train a Naive Bayes Classifier
+
+8: Assess trained model performance
