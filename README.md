@@ -46,3 +46,7 @@
 7: Train a Naive Bayes Classifier
 
 8: Assess trained model performance
+
+
+# Conclusion 🔚
+In this NLP-based sentiment analysis project, I learned to preprocess Twitter data, extract features using TF-IDF, and implement machine learning models for sentiment classification. Key skills included handling imbalanced data, evaluating models with accuracy and F1-score, and applying sentiment analysis to understand public opinion and customer feedback. This hands-on experience solidified my ability to use NLP for real-world sentiment analysis
