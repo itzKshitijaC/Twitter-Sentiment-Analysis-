@@ -3,7 +3,7 @@
 ![Coursera_Certificate](https://github.com/itzKshitijaC/Twitter-Sentiment-Analysis-/assets/168798073/58c29367-f5d8-4e20-a6a7-08b24e4380ce)
 
 # Objective 🔍
-### Build, train, test, and deploy an Artificial Intelligence (AI) model to predict sentiment from thousands of tweets. Sentiment prediction involves understanding people's feelings about a product or service.
+### Build, train, test an Artificial Intelligence (AI) model to predict sentiment from thousands of tweets. Sentiment prediction involves understanding people's feelings about a product or service.
 
 # Tools 🔨
 ## Anaconda, Python, Scikit-Learn, Matplotlib, Seaborn
